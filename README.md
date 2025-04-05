@@ -32,7 +32,7 @@ En enkel backend applikasjon for en ToDo-liste bygget med Spring Boot og Postgre
 
 1. Klon repoet:
    ```bash
-   git clone https://github.com/brukernavn/todo-backend.git
+   git clone https://github.com/Nourkhalil0/todo-backend.git
 
 2. Gå inn i prosjektmappen:
 "cd todo-backend"
